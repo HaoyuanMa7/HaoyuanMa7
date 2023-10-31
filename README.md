@@ -1,6 +1,6 @@
 # Haoyuan Ma
 # Full Stack Developer | CS Master's @UPenn (MCIT)
-# Activily looking for full time Software Engineer position!
+Activily looking for full time Software Engineer position!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haoyuan-ma-3433241b4)
 
