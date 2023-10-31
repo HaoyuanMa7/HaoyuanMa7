@@ -8,17 +8,17 @@
 ## 🎓 EDUCATION
 
 ### **University of Pennsylvania**
-_Master of Computer and Information Technology (GPA 4.0/4.0)_
+_Master of Computer and Information Technology (GPA 4.0/4.0)_ (2023 - Expected Dec 2024)
 
 - **Courses:** Computer System, Software Design, Algorithms, Machine Learning, Cloud Computing, Database
 
 ### **University of California Santa Barbara**
-_B.S. in Financial Mathematics and Statistics_
+_B.S. in Financial Mathematics and Statistics_ (2018 - 2022)
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
 <details>
-<summary>🚀 <b>Founding Software Engineer</b>, Boston Tech Insights </summary>
+🚀 <b>Founding Software Engineer</b>, Boston Tech Insights - Current
 
 - 🌐 Engineered tech development of a SaaS platform, revolutionizing business interviews.
 - 🤖 Implemented a unique GPT-based system, enhancing efficiency in the business consultant and PE due diligence sectors.
