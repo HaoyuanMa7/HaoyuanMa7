@@ -17,8 +17,8 @@ _B.S. in Financial Mathematics and Statistics_ (2018 - 2022)
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
-<details>
-🚀 <b>Founding Software Engineer</b>, Boston Tech Insights - Current
+
+<summary>🚀 <b>Founding Software Engineer</b>, Boston Tech Insights - Current</summary>
 
 - 🌐 Engineered tech development of a SaaS platform, revolutionizing business interviews.
 - 🤖 Implemented a unique GPT-based system, enhancing efficiency in the business consultant and PE due diligence sectors.
